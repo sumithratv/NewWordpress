@@ -1,0 +1,13 @@
+2020-03-23 23:46:51,686 [main] INFO LogDemo - Chrome Opened
+2020-03-23 23:46:52,336 [main] INFO LogDemo - Chrome Opened
+2020-03-23 23:46:59,539 [main] INFO LogDemo - Navigated to url
+2020-03-23 23:47:00,251 [main] INFO LogDemo - Navigated to url
+2020-03-23 23:47:00,707 [main] INFO LogDemo - Max
+2020-03-23 23:47:01,104 [main] INFO LogDemo - select drop
+2020-03-23 23:47:01,390 [main] INFO LogDemo - Max
+2020-03-23 23:47:01,477 [main] INFO LogDemo - select drop
+2020-03-23 23:47:01,660 [main] INFO LogDemo - size of drop down
+2020-03-23 23:47:01,685 [main] INFO LogDemo - size of drop down
+2020-03-25 10:14:58,758 [main] INFO LogDemo - Chrome Driver Opened
+2020-03-25 10:15:39,620 [main] INFO LogDemo - Navigated to URL
+2020-03-25 10:15:40,794 [main] INFO LogDemo - Browser Maximized

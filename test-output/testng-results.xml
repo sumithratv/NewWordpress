@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="60166" started-at="2020-03-30T10:11:17 IST" finished-at="2020-03-30T10:12:17 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="60166" started-at="2020-03-30T10:11:17 IST" finished-at="2020-03-30T10:12:17 IST">
+      <class name="cts.miniproject.test.DdExcelWordpressLogin">
+        <test-method status="PASS" signature="loginToWordpress(java.lang.String, java.lang.String)[pri:0, instance:cts.miniproject.test.DdExcelWordpressLogin@76f2b07d]" name="loginToWordpress" duration-ms="20807" started-at="2020-03-30T10:11:19 IST" data-provider="wordpress" finished-at="2020-03-30T10:11:39 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[demo123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToWordpress -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:cts.miniproject.test.DdExcelWordpressLogin@76f2b07d]" name="tearDown" is-config="true" duration-ms="1116" started-at="2020-03-30T10:11:39 IST" finished-at="2020-03-30T10:11:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="loginToWordpress(java.lang.String, java.lang.String)[pri:0, instance:cts.miniproject.test.DdExcelWordpressLogin@76f2b07d]" name="loginToWordpress" duration-ms="20784" started-at="2020-03-30T10:11:40 IST" data-provider="wordpress" finished-at="2020-03-30T10:12:01 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[demo123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToWordpress -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:cts.miniproject.test.DdExcelWordpressLogin@76f2b07d]" name="tearDown" is-config="true" duration-ms="1024" started-at="2020-03-30T10:12:01 IST" finished-at="2020-03-30T10:12:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="loginToWordpress(java.lang.String, java.lang.String)[pri:0, instance:cts.miniproject.test.DdExcelWordpressLogin@76f2b07d]" name="loginToWordpress" duration-ms="13913" started-at="2020-03-30T10:12:02 IST" data-provider="wordpress" finished-at="2020-03-30T10:12:16 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[demo123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToWordpress -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:cts.miniproject.test.DdExcelWordpressLogin@76f2b07d]" name="tearDown" is-config="true" duration-ms="1043" started-at="2020-03-30T10:12:16 IST" finished-at="2020-03-30T10:12:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- cts.miniproject.test.DdExcelWordpressLogin -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
